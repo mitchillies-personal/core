@@ -1,0 +1,15 @@
+{
+  "domain": "test_state",
+  "name": "test_state.millies",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/test_state",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@mitchillies-personal"
+  ],
+  "iot_class": "calculated"
+}

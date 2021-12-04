@@ -299,6 +299,7 @@ FLOWS = [
     "tasmota",
     "tellduslive",
     "tesla_wall_connector",
+    "test_state",
     "tibber",
     "tile",
     "tolo",
